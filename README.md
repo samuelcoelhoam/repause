@@ -6,10 +6,11 @@ re pause was designed to help people build healthier work routines. With it, you
 
 Perfect for anyone who spends long hours in front of a computer, re pause encourages more balanced and productive habits through a practical, accessible interface fully optimized for the Apple Watch.<br>
 
-<br>
-Download it now and start living a more autonomous life!<br>
-https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024
-<br>
+## 📲 Download
+
+Start transforming your work routine now!
+**Download re pause on the App Store:**  
+👉 [**re pause – Take active breaks**](https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024)
 
 ## Tools
 - Xcode
@@ -33,7 +34,8 @@ https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024
 
 ## How to Run
 Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an Apple Watch running watchOS 10 or later.<br>
-1. Download it at AppStore: https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024
+1. Download it at AppStore: 👉 [**re pause – Faça pausas ativas**](https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024)
+
 
 ## Screenshots
 <p align="center">
@@ -43,8 +45,35 @@ Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an 
 <img alt="Project Image 2" width="950" src="https://github.com/samuelcoelhoam/repause/blob/main/repause_screens.png"></p>
 <br>
 
-## Authors
-Calebe Gurgel Aragão <br>
-Cecilia Maia Guimarães<br>
-Jessica Rodrigues de Souza <br>
-Jorge Samuel Silva Coelho <br>
+## 👥 Authors
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/calebegurgel">
+        <img src="https://github.com/calebegurgel.png" width="150px;" alt="Calebe Aragão"/><br />
+        <sub><b>Calebe Aragão</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ceci-maia">
+        <img src="https://github.com/ceci-maia.png" width="150px;" alt="Cecilia Guimarães"/><br />
+        <sub><b>Cecilia Guimarães</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jedissica-rds">
+        <img src="https://github.com/jedissica-rds.png" width="150px;" alt="Jessica Souza"/><br />
+        <sub><b>Jessica Souza</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samuelcoelhoam">
+        <img src="https://github.com/samuelcoelhoam.png" width="150px;" alt="Samuel Coelho"/><br />
+        <sub><b>Samuel Coelho</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
