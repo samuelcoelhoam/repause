@@ -50,29 +50,33 @@ Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an 
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/calebegurgel">
-        <img src="https://github.com/calebegurgel.png" width="150px;" alt="Calebe Aragão"/><br />
-        <sub><b>Calebe Aragão</b></sub>
-      </a>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/calebegurgel" target="_blank">
+        <img src="https://github.com/calebegurgel.png" width="150px" style="border-radius: 50%;" alt="Calebe Aragão"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Calebe Aragão</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Designer</span>
     </td>
-    <td align="center">
-      <a href="https://github.com/ceci-maia">
-        <img src="https://github.com/ceci-maia.png" width="150px;" alt="Cecilia Guimarães"/><br />
-        <sub><b>Cecilia Guimarães</b></sub>
-      </a>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/ceci-maia" target="_blank">
+        <img src="https://github.com/ceci-maia.png" width="150px" style="border-radius: 50%;" alt="Cecilia Guimarães"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Cecilia Guimarães</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
-    <td align="center">
-      <a href="https://github.com/jedissica-rds">
-        <img src="https://github.com/jedissica-rds.png" width="150px;" alt="Jessica Souza"/><br />
-        <sub><b>Jessica Souza</b></sub>
-      </a>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/jedissica-rds" target="_blank">
+        <img src="https://github.com/jedissica-rds.png" width="150px" style="border-radius: 50%;" alt="Jessica Souza"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Jessica Souza</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
-    <td align="center">
-      <a href="https://github.com/samuelcoelhoam">
-        <img src="https://github.com/samuelcoelhoam.png" width="150px;" alt="Samuel Coelho"/><br />
-        <sub><b>Samuel Coelho</b></sub>
-      </a>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/samuelcoelhoam" target="_blank">
+        <img src="https://github.com/samuelcoelhoam.png" width="150px" style="border-radius: 50%;" alt="Samuel Coelho"/><br />
+        <span style="font-weight: bold; font-size: 16px; color: #333;">Samuel Coelho</span>
+      </a><br />
+      <span style="font-size: 14px; color: #777;">Developer</span>
     </td>
   </tr>
 </table>
