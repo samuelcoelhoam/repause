@@ -37,7 +37,7 @@ Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an 
 
 ## Screenshots
 <p align="center">
-<img alt="Project Image 1" width="950" src="https://github.com/samuelcoelhoam/repause/blob/main/repause_promotion.png"></p>
+<img alt="Project Image 1" width="750" src="https://github.com/samuelcoelhoam/repause/blob/main/repause_promotion.png"></p>
 <br>
 <p align="center">
 <img alt="Project Image 2" width="950" src="https://github.com/samuelcoelhoam/repause/blob/main/repause_screens.png"></p>
