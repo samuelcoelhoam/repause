@@ -44,7 +44,7 @@ Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an 
 <br>
 
 ## Authors
-Calebe Gurgel Aragão <br>
-Cecilia Maia Guimarães <br>
-Jessica Rodrigues de Souza <br>
-Jorge Samuel Silva Coelho <br>
+Calebe Gurgel Aragão: Designer <br>
+Cecilia Maia Guimarães: @ceci-maia<br>
+Jessica Rodrigues de Souza: @jedissica-rds <br>
+Jorge Samuel Silva Coelho: @samuelcoelhoam <br>
