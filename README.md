@@ -34,7 +34,7 @@ Start transforming your work routine now!
 
 ## How to Run
 Prerequisites: You must have an iPhone running iOS 13.0 or later paired with an Apple Watch running watchOS 10 or later.<br>
-1. Download it at AppStore: 👉 [**re pause – Faça pausas ativas**](https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024)
+1. Download it at AppStore: [**re pause – Faça pausas ativas**](https://apps.apple.com/br/app/re-pause-fa%C3%A7a-pausas-ativas/id6737545024)
 
 
 ## Screenshots
